@@ -1,0 +1,10 @@
+1. Login/Signin/Logout
+2. Payment API
+3. Question & Answer (Q&A)
+4. Contact Us
+5. Store for selling products
+6. Donation with live location(map)
+7. Awareness
+8. Toggle Black & White Theme
+9. ChatBot(Live Chat)
+10.YouTube Video

@@ -8,6 +8,13 @@ body {
     padding: 0;
 }
 
+.dark-mode {
+    transition: background-color;
+    transition-duration: 5s;
+    background-color: #363232;
+    color: yellow;
+}
+
 .jumbotron {
     background-size: cover;
     color: #fff;
